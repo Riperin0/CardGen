@@ -72,13 +72,13 @@ public class randomCard {
 	{
 		switch(i) {
 		case(1):
-			return suit.CLUBS;
+			return suit.STARS;
 		case(2):
-			return suit.DIAMOND;
+			return suit.COINS;
 		case(3):
-			return suit.HEART;
+			return suit.GLYPHS;
 		case(4):
-			return suit.SPADE;
+			return suit.SWORDS;
 		case(5):
 			return suit.JOKER;
 		}

@@ -36,6 +36,18 @@ public class card {
 		return value;
 	}
 	
+	public int getSuitInt() {
+
+		return suit.ordinal();
+	}
+	
+	public int getValueInt() {
+		return value.ordinal()+1;
+	}
+	
+	
+	
+	
 	
 	
 	//Setters

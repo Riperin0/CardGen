@@ -1,9 +1,9 @@
 	public enum suit 
 	{ 
-		CLUBS,
-		DIAMOND,
-		HEART,
-		SPADE,
+		STARS,
+		COINS,
+		GLYPHS,
+		SWORDS,
 		JOKER
 	}
 	
